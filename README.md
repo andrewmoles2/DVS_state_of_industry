@@ -13,8 +13,8 @@ For the [2023 challenge](https://www.datavisualizationsociety.org/soti-challenge
 I also made some other visuals which I don't think are quite as interesting or useful. 
 
 <p float="left">
-  <img src="2023/figures/avg_tool_use.png" width="33%" />
-  <img src="2023/figures/fav_tools_flow_all.png", width="33%" />
+  <img src="2023/figures/avg_tool_use.png" width="50%" />
+  <img src="2023/figures/fav_tools_flow_all.png", width="50%" />
 </p>
 
 <!--
